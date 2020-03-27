@@ -10,7 +10,7 @@ Hi! I'm **Reetik Rajan** and I made this repository for the programs written in 
  3. Extract the zip file using *7zip* or *WinRAR*.
  4. Copy **SUDOKU.CPP** to `C:\TURBOC3\BIN`.
  > Using any other IDE or OS, *4th* step will be change accordingly.
-### User Manual
+### User Manual (will be available soon...)
 It will be available in the zip file you had already downloaded.
 > Must read before running the program. 
 
